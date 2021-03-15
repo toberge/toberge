@@ -1,6 +1,6 @@
 ## Hello World, I'm Tore
 
-+ 🔭 I'm currently working on various tiny projects
++ 🔭 I'm currently working on a bachelor's thesis
 + 🌱 I'm currently learning Haskell and React Native
 
 <details>
