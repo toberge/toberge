@@ -1,7 +1,8 @@
 ## Hello World, I'm Tore
 
-+ 🔭 I'm currently working on a bachelor's thesis
-+ 🌱 I'm currently learning Haskell and React Native
++ 🏢 Summer Intern at AutoStore
++ 🎉 Finished a bachelor's degree in computer science
++ 🌱 I'm currently learning Spark
 
 <details>
 <summary><strong>Useless stats</strong></summary>
