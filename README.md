@@ -1,8 +1,9 @@
 ## Hello World, I'm Tore
 
-+ 🏢 Summer Intern at AutoStore
++ 🎓 Taking a master's degree in computer science
++ 🏢 Working part-time at AutoStore
 + 🎉 Finished a bachelor's degree in computer science
-+ 🌱 I'm currently learning Spark
++ 🌱 I'm currently learning... a lot of things
 
 <details>
 <summary><strong>Useless stats</strong></summary>
