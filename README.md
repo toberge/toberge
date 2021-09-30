@@ -2,7 +2,7 @@
 
 + 🎓 Taking a master's degree in computer science
 + 🏢 Working part-time at AutoStore
-+ 🎉 Finished a bachelor's degree in computer science ([thesis here](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778054)]
++ 🎉 Finished a bachelor's degree in computer science ([thesis here](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778054)
 + 🌱 I'm currently learning... a lot of things
 
 <details>
