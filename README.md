@@ -3,7 +3,8 @@
 + 🎓 Taking a master's degree in computer science
 + 🏢 Working part-time at AutoStore
 + 🎉 Finished a bachelor's degree in computer science ([thesis here](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778054))
-+ 🌱 I'm currently learning... a lot of things
++ 🎼 Practicing accordion 🪗 and piano 🎹
++ 🌱 I'm currently learning computer graphics and compiler theory
 
 <details>
 <summary><strong>Useless stats</strong></summary>
