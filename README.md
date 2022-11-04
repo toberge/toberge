@@ -4,7 +4,8 @@
 + 🏢 Working part-time at AutoStore
 + 🎉 Finished a bachelor's degree in computer science ([thesis here](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2778054))
 + 🎼 Practicing accordion 🪗 and piano 🎹
-+ 🌱 I'm currently learning computer graphics and compiler theory
++ 🌱 Learning Unity, XR, point registration and visual communication
++ 📝 Working on a master's thesis about AR simulation of Doppler ultrasound
 
 <details>
 <summary><strong>Useless stats</strong></summary>
